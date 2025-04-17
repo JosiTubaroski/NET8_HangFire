@@ -1,0 +1,63 @@
+## Ignore Visual Studio files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Build results
+bin/
+obj/
+[Bb]uild/
+[Ll]og/
+*.log
+
+## NuGet
+*.nupkg
+packages/
+*.snupkg
+project.lock.json
+project.assets.json
+*.nuspec
+*.psmdcp
+
+## Rider
+.idea/
+
+## User-specific files
+*.userprefs
+*.csproj.user
+
+## ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+## Others
+*.db
+*.db-shm
+*.db-wal
+
+## Logs and dumps
+*.pid
+*.seed
+*.dump
+
+## Local secret settings (ex: user-secrets)
+secrets.json
+
+## JetBrains Rider
+.idea/
+
+## Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+## ASP.NET publish directory
+wwwroot/
+
+## dotCover
+*.dotCover
+
+## coverage reports
+coverage*
+
+
