@@ -2,6 +2,8 @@
 
 <b>Hangfire</b> é uma biblioteca para .NET (C#) que permite que você <b>execute tarefas em segundo plano (background jobs)</b> de forma fácil e confiável — <b>sem precisar criar Threads, Timers ou Windows Services.</b>
 
+https://www.youtube.com/watch?v=jIbbYIcJ8Gg
+
 ### 🛠️ O que ele faz na prática?
 
 Com o Hangfire, você consegue:
